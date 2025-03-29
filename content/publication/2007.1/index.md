@@ -1,27 +1,30 @@
 ---
 title: "Purification and Partial Characterization of Glutathione Transferase from the Teleost Monopterus Albus"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2001-09-01T00:00:00Z"
-doi: "111111" 
+- Qing Huang,
+- Li Liang,
+- Tao Wei,
+- Daming Zhang,
+- Qing-Yin Zeng
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2008-01:"
+doi: "https://doi.org/10.1016/j.cbpc.2007.08.004" 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2000-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ["article-journal"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "* Comparative biochemistry and physiology. Toxicology & pharmacology : CBP* 147.1 (2007): 96-100"
 # publication_short: ""
 
-abstract: '111111111111111111'
+abstract: 'Glutathione transferases (GSTs) catalyze the transfer of glutathione to a variety of xenobiotic and toxic endogenous compounds. GSTs are phase H biotransformation enzymes and are proposed as biomarkers of environmental pollution. In this study, a cytosolic glutathione transferase (maGST) was purified from liver of the freshwater fish Monopterus albus by affinity chromatography. The maGST appeared to be a homodimer composed of two subunits each with a molecular weight of 26 kDa. This maGST showed high activity towards the substrates 1-chloro-2,4-dinitrobenzene (CDNB) and 7-chloro-4-nitrobenzo-2-oxa-1,3-diazole (NBD-Cl). Kinetic analysis with CDNB as substrate revealed a K. of 0.28 mM and V-max of 15.68 mu mol/min per mg of protein. It had maximum activity in the pH range 7.0-7.5, a broad optimum T-m range of 30 degrees C-55 degrees C, and a high thermal stability with 77% of its initial activity at 45 degrees C. This high thermal stability of maGST could be related to the physiological adaptation of M albus to high temperatures in tropical and subtropical environments. (c) 2007 Elsevier Inc. All rights reserved.'
 
 # Summary. An optional shortened abstract.
 summary: ''
