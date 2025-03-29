@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Purification and Partial Characterization of Glutathione Transferase from the Teleost Monopterus Albus"
 authors:
 - admin
 - Robert Ford
