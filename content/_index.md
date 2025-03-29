@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-         **林木比较功能基因组与分子育种课题组** 欢迎您！
+         **欢迎您来到课题组主页！** 
   
   - block: collection
     content:
