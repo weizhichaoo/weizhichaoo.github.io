@@ -5,7 +5,7 @@ authors:
 - Li Liang
 - Tao Wei
 - Daming Zhang
-- **Qing-Yin Zeng**
+- Qing-Yin Zeng
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
