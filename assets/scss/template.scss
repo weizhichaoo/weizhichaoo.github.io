@@ -7,10 +7,3 @@
 .cta-group {
   justify-content: center;
 }
-
-/* 取消文章列表标题链接效果 */
-.pub-list-item .pub-title a {
-  color: inherit !important;         /* 保持标题颜色不变 */
-  text-decoration: none !important;  /* 去除下划线 */
-  pointer-events: none !important;   /* 禁用点击效果 */
-}

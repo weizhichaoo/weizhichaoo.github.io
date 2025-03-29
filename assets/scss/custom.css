@@ -1,0 +1,7 @@
+/* 禁用标题链接的下划线 */
+.article-title a {
+    text-decoration: none !important;
+    pointer-events: none !important;
+    cursor: default !important;
+    color: inherit !important; /* 保持与普通文本颜色一致 */
+  }
