@@ -7,8 +7,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2007-09-01T00:00:00Z"
-doi: ""
-# links: [] 
+doi: "111111" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -31,9 +30,9 @@ tags: ''
 
 featured: false
 
-links:
-  - name: ''
-    url: '文章链接'
+# links:
+#   - name: ''
+#     url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
