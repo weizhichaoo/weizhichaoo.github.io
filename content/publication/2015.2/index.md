@@ -1,16 +1,19 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "Divergence in Enzymatic Activities in the Soybean GST Supergene Family Provides New Insight into the Evolutionary Dynamics of Whole-Genome Duplicates"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
+- Hai-Jing Liu
+- Zhen-Xin Tang
+- Xue-Min Han
+- Zhi-Ling Yang
+- Fu-Min Zhang
+- Hai-Ling Yang
+- Yan-Jing Liu
 - Qing-Yin Zeng
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2015-11-01T00:00:00Z"
+doi: "https://doi.org/10.1093/molbev/msv156" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +24,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*Molecular biology and evolution *32.11 (2015): 2844-2859"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'Whole-genome duplication (WGD), or polyploidy, is a major force in plant genome evolution. A duplicate of all genes is present in the genome immediately following a WGD event. However, the evolutionary mechanisms responsible for the loss of, or retention and subsequent functional divergence of polyploidy-derived duplicates remain largely unknown. In this study we reconstructed the evolutionary history of the glutathione S-transferase (GST) gene family from the soybean genome, and identified 72 GST duplicated gene pairs formed by a recent Glycine-specific WGD event occurring approximately 13 Ma. We found that 72% of duplicated GST gene pairs experienced gene losses or pseudogenization, whereas 28% of GST gene pairs have been retained in the soybean genome. The GST pseudogenes were under relaxed selective constraints, whereas functional GSTs were subject to strong purifying selection. Plant GST genes play important roles in stress tolerance and detoxification metabolism. By examining the gene expression responses to abiotic stresses and enzymatic properties of the ancestral and current proteins, we found that polyploidy-derived GST duplicates show the divergence in enzymatic activities. Through site-directed mutagenesis of ancestral proteins, this study revealed that nonsynonymous substitutions of key amino acid sites play an important role in the divergence of enzymatic functions of polyploidy-derived GST duplicates. These findings provide new insights into the evolutionary and functional dynamics of polyploidy-derived duplicate genes.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +39,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2015.2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
