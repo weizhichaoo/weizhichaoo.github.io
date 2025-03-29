@@ -1,16 +1,19 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "Transcriptome-wide Identification and Characterization of Mirnas from Pinus Densata"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
+- Li-Chuan Wan
+- Haiyan Zhang
+- Shanfa Lu
+- Liang Zhang
+- Zongbo Qiu
+- Yuanyuan Zhao
 - Qing-Yin Zeng
+- Jinxing Lin
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2012-04-01T00:00:00Z"
+doi: "https://doi.org/10.1186/1471-2164-13-132" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +24,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*BMC Genomics*13.1 (2012)"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'Background:MicroRNAs (miRNAs) play key roles in diverse developmental processes, nutrient homeostasis and responses to biotic and abiotic stresses. The biogenesis and regulatory functions of miRNAs have been intensively studied in model angiosperms, such as Arabidopsis thaliana, Oryza sativa and Populus trichocarpa. However, global identification of Pinus densata miRNAs has not been reported in previous research.Results:Here, we report the identification of 34 conserved miRNAs belonging to 25 miRNA families from a P. densata mRNA transcriptome database using local BLAST and MIREAP programs. The primary and/or precursor sequences of 29 miRNAs were further confirmed by RT-PCR amplification and subsequent sequencing. The average value of the minimal folding free energy indexes of the 34 miRNA precursors was 0.92. Nineteen (58%) mature miRNAs began with a 5 terminal uridine residue. Analysis of miRNA precursors showed that 19 mature miRNAs were novel members of 14 conserved miRNA families, of which 17 miRNAs were further validated by subcloning and sequencing. Using real-time quantitative RT-PCR, we found that the expression levels of 7 miRNAs were more than 2-fold higher in needles than in stems. In addition, 72 P. densata mRNAs were predicted to be targets of 25 miRNA families. Four target genes, including a nodal modulator 1-like protein gene, two GRAS family transcription factor protein genes and one histone deacetylase gene, were experimentally verified to be the targets of 3 P. densata miRNAs, pde-miR162a, pde-miR171a and pde-miR482a, respectively.Conclusions:This study led to the discovery of 34 conserved miRNAs comprising 25 miRNA families from Pinus densata. These results lay a solid foundation for further studying the regulative roles of miRNAs in the development, growth and responses to environmental stresses in P. densata.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +39,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2012.7.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

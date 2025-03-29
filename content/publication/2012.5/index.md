@@ -1,16 +1,14 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "Genome-wide Analysis of the LEA (late Embryogenesis Abundant) Protein Gene Family in Populus Trichocarpa"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
-- Qing-Yin Zeng
+- Ting Lan
+- Jie Gao
+- Qing-Yin Zen
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2012-07-01T00:00:00Z"
+doi: "https://doi.org/10.1007/s11295-012-0551-2" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*Tree Genetics & Genomes*9.1 (2012): 253-264"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'Late embryogenesis abundant (LEA) proteins are a large and highly diverse group of polypeptides that are believed to function in desiccation and freezing tolerance in plants. This report presents a genome-wide analysis of LEA proteins and their encoding genes in Populus trichocarpa. Fifty-three LEA genes were identified from the Populus genome and divided into eight groups. The LEA4 and LEA5 groups were found in green algae and all land plants, whereas the other six groups existed only in land plants, indicating that the LEA family underwent rapid expansion during the early evolution of land plants. A majority of Populus LEA proteins contained repeated motifs that were often specific to a LEA group. Except for PtLEA2-1 and PtLEA2-3, all Populus LEA proteins were highly hydrophilic. Examination of the chromosomal locations of Populus LEA genes revealed that 30 % were arranged in tandem repeats, indicating that tandem duplications significantly contributed to the expansion of this gene family in Populus. Expression patterns of all Populus LEA genes under normal growth conditions and abiotic stress (salinity and drought) were investigated by reverse transcription polymerase chain reaction. Twelve of 53 Populus LEA genes were selectively expressed in a specific tissue and/or in response to a specific treatment. LEA genes also showed extensive divergence in expression patterns, even among those from the same group or gene cluster. The expression profiles revealed that the Populus LEA gene family was not involved systematically in the same regulatory pathway.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +34,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2012.5.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

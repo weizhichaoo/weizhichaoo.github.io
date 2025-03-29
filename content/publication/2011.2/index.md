@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* Sheng wu gong cheng xue bao = Chinese journal of biotechnology*427.1 (2011): 76-84"
+publication: "*Sheng wu gong cheng xue bao = Chinese journal of biotechnology*427.1 (2011): 76-84"
 # publication_short: ""
 
 abstract: 'Plant dehydroascorbate reductase (DHAR) is a physiologically important reducing enzyme in the ascorbate-glutathione recycling reaction. In this study, two DHARs genes (SmDHAR1 and SmDHAR2) were isolated from Selaginella moellendorffii. The SmDHAR1 and SmDHAR2 genes encode two proteins of 218 and 241 amino acid residues, with a calculated molecular mass of 23.97 kDa and 27.33 kDa, respectively. The genomic sequence analysis showed SmDHAR1 and SmDHAR2 contained five and six introns, respectively. Reverse transcription PCR revealed that the SmDHAR1 and SmDHAR2 were constitutive expression genes in S. moellendorffii. The recombinant SmDHAR1 and SmDHAR2 proteins were overexpressed in E. coli, and were purified by Ni-affinity chromatography. The recombinant SmDHAR1 showed 116-fold higher enzymatic activity towards the substrate dehydroascorbate than recombinant SmDHAR2. The recombinant SmDHAR1 showed higher thermal stability than recombinant SmDHAR2. These results indicated obvious functional divergence between the duplicate genes SmDHAR1 and SmDHAR2.'

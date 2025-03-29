@@ -1,16 +1,24 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "Structural Insight into the Type-Ii Mitochondrial NADH Dehydrogenases"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
-- Qing-Yin Zeng
+- Yue Feng
+- Wenfei Li
+- Jian Li
+- Jiawei Wang
+- Jingpeng Ge
+- Duo Xu
+- Yanjing Liu
+- Kaiqi Wu
+- Qingyin Zeng
+- Jia-Wei Wu
+- Changlin Tian
+- Bing Zhou
+- Maojun Yang
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2012-12-01T00:00:00Z"
+doi: "https://doi.org/10.1038/nature11541" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +29,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*Nature*491.7424 (2012): 478-482"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'The single-component type-II NADH dehydrogenases (NDH-2s) serve as alternatives to the multisubunit respiratory complex I (type-I NADH dehydrogenase (NDH-1), also called NADH:ubiquinone oxidoreductase; EC 1.6.5.3) in catalysing electron transfer from NADH to ubiquinone in the mitochondrial respiratory chain1. The yeast NDH-2 (Ndi1) oxidizes NADH on the matrix side and reduces ubiquinone to maintain mitochondrial NADH/NAD+ homeostasis. Ndi1 is a potential therapeutic agent for human diseases caused by complex I defects2,3,4,5,6,7,8,9, particularly Parkinson’s disease, because its expression restores the mitochondrial activity in animals with complex I deficiency. NDH-2s in pathogenic microorganisms are viable targets for new antibiotics10,11. Here we solve the crystal structures of Ndi1 in its substrate-free, NADH-, ubiquinone- and NADH–ubiquinone-bound states, to help understand the catalytic mechanism of NDH-2s. We find that Ndi1 homodimerization through its carboxy-terminal domain is critical for its catalytic activity and membrane targeting. The structures reveal two ubiquinone-binding sites (UQI and UQII) in Ndi1. NADH and UQI can bind to Ndi1 simultaneously to form a substrate–protein complex. We propose that UQI interacts with FAD to act as an intermediate for electron transfer, and that NADH transfers electrons through this FAD–UQI complex to UQII. Together our data reveal the regulatory and catalytic mechanisms of Ndi1 and may facilitate the development or targeting of NDH-2s for potential therapeutic applications.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +44,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2012.3.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
