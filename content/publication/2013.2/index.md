@@ -1,16 +1,15 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "Molecular Evolution and Expression Divergence of the Populus Polygalacturonase Supergene Family Shed Light on the Evolution of Increasingly Complex Organs in Plants"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
+- Zhi-Ling Yang
+- Hai-Jing Liu
+- Xiao-Ru Wang
 - Qing-Yin Zeng
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2013-03-01T00:00:00Z"
+doi: "https://doi.org/10.1111/nph.12107" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*New Phytologist *197.4 (2013): 1353-1365"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'Plant polygalacturonases (PGs) are involved in cell separation processes during many stages of plant development. Investigation into the diversification of this large gene family in land plants could shed light on the evolution of structural development. We conducted whole-genome annotation, molecular evolution and gene expression analyses of PG genes in five species of land plant: Populus, Arabidopsis, rice, Selaginella and Physcomitrella. We identified 75, 44, 16 and 11 PG genes from Populus, rice, Selaginella and Physcomitrella genomes, respectively, which were divided into three classes. We inferred rapid expansion of class I PG genes in Populus, Arabidopsis and rice, while copy numbers of classes II and III PG genes were relatively conserved in all five species. Populus, Arabidopsis and rice class I PG genes were under more relaxed selection constraints than class II PG genes, while this selective pressure divergence was not observed in Selaginella and Physcomitrella PG families. In addition, class I PG genes underwent marked expression divergence in Populus, rice and Selaginella. Our results suggest that PG gene expansion occurred after the divergence of the lycophytes and euphyllophytes, and this expansion was likely paralleled by the evolution of increasingly complex organs in land plants.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +35,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2013.2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
