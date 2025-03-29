@@ -30,7 +30,7 @@ tags: ''
 
 featured: false
 
-links: ''
+# links: ''
 # - name: ""
 #   url: ""
 url_pdf: ''
