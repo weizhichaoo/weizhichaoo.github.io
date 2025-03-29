@@ -116,7 +116,3 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
-  links_show: false  # 全局禁用所有链接
-  design:
-    show_link: false  # 禁用标题链接
-    show_detail: false  # 禁用详情按钮
