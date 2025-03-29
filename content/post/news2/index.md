@@ -7,10 +7,12 @@ image:
   focal_point: 'top'
 ---
 
+NEWS
+<!--more-->
 <div style="text-align: center">
 
-破阵子·春景
-<!--more-->
+## 破阵子·春景
+
 【宋】晏殊
 
 燕子来时新社，梨花落后清明。  
