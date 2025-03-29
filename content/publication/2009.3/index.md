@@ -1,10 +1,10 @@
 ---
 title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
+- Xue Yang
+- Wu Sun
+- Jiang-Peng Liu
+- Yan-Jing Liu
 - Qing-Yin Zeng
 # author_notes:
 # - "Equal contribution"

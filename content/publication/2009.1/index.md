@@ -1,11 +1,11 @@
 ---
 title: "Molecular Characterization of a Dehydroascorbate Reductase from Pinus Bungeana"
 authors:
-- Hai-Ling Yang,
-- Ying-Ru Zhao,
-- Cai-Ling Wang,
-- Zhi-Ling Yang,
-- Qing-Yin Zeng,
+- Hai-Ling Yang
+- Ying-Ru Zhao
+- Cai-Ling Wang
+- Zhi-Ling Yang
+- Qing-Yin Zeng
 - Hai Lu
 # author_notes:
 # - "Equal contribution"

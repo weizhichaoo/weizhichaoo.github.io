@@ -1,11 +1,11 @@
 ---
 title: "Extensive Functional Diversification of the Populus Glutathione S-transferase Supergene Family"
 authors:
-- Ting Lan,
-- Zhi-Ling Yang,
-- Xue Yang,
-- Yan-Jing Liu,
-- Xiao-Ru Wang,
+- Ting Lan
+- Zhi-Ling Yang
+- Xue Yang
+- Yan-Jing Liu
+- Xiao-Ru Wang
 - Qing-Yin Zeng
 # author_notes:
 # - "Equal contribution"

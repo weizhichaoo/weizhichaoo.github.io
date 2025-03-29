@@ -1,10 +1,10 @@
 ---
 title: "Purification and Partial Characterization of Glutathione Transferase from the Teleost Monopterus Albus"
 authors:
-- Qing Huang,
-- Li Liang,
-- Tao Wei,
-- Daming Zhang,
+- Qing Huang
+- Li Liang
+- Tao Wei
+- Daming Zhang
 - Qing-Yin Zeng
 # author_notes:
 # - "Equal contribution"
