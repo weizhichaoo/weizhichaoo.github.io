@@ -37,7 +37,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2009.2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
