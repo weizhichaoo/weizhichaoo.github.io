@@ -1,75 +1,62 @@
 ---
-title: "An example journal article"
+title: "Cytochrome B5 Diversity in Green Lineages Preceded the Evolution of Syringyl Lignin Biosynthesis"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Xianhai Zhao
+- Yunjun Zhao
+- Qing-yin Zeng
+- Chang-Jun Liu
+date: "2024-07-01T00:00:00Z"  #
+doi: ""  
+publishDate: "2024-03-01T00:00:00Z"  
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
+# 文献类型配置
 publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+# 期刊信息
+publication: "*Plant Cell* 36(7): 2709-2728"
+publication_short: "*Plant Cell* 36(7)"  
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# 摘要配置
+abstract: "This study reveals that cytochrome B5 diversification in early green lineages predates the emergence of syringyl lignin biosynthesis, providing new insights into the evolution of plant cell wall formation."
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# 简明摘要
+summary: "Evolutionary analysis demonstrates cytochrome B5 gene family expansion preceded syringyl lignin evolution in vascular plants."
 
+# 标签系统
 tags:
-- Source Themes
-featured: false
+- Plant Evolution
+- Cytochrome B5
+- Lignin Biosynthesis
+- Gene Family Expansion
+- Phylogenetics
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# 资源链接
+url_pdf: ""  
+url_dataset: ""  
+url_project: ""  
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# 可视化配置
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+  caption: ""
+  focal_point: "center"
+  preview_only: false  
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+# 关联内容
+projects: 
+- plant-evolution  
+slides: ""  
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+**Highlight**: First comprehensive analysis of cytochrome B5 evolution across green lineages
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+**Methodological Innovations**:
+- Phylogenetic reconstruction of B5 isoforms in 47 plant species
+- Co-expression network analysis with lignin biosynthesis genes
+- Ancestral protein structure modeling
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+**Key Findings**:
+- Two major B5 clades emerged before vascular plant diversification
+- Specific B5 isoforms show tight co-regulation with lignin genes
+- Structural adaptations in seed plant B5s enabled new functions
