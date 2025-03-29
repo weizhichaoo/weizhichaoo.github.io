@@ -10,6 +10,7 @@ image:
 <div style="text-align: center">
 
 ## 破阵子·春景
+<!--more-->
 
 【宋】晏殊
 
