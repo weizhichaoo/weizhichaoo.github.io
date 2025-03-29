@@ -1,15 +1,19 @@
 ---
-title: "Functional Divergence of Dehydroascorbate Reductase Genes in Pinus Densata, P. Tabulaeformis and P. Yunnanensis"
+title: "Transcriptome-wide Identification and Characterization of Mirnas from Pinus Densata"
 authors:
-- Kao Hongna
-- Lan Ting
-- Wang Xiaoru
-- Zeng Qingyin
+- Li-Chuan Wan
+- Haiyan Zhang
+- Shanfa Lu
+- Liang Zhang
+- Zongbo Qiu
+- Yuanyuan Zhao
+- Qing-Yin Zeng
+- Jinxing Lin
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2011-10-01T00:00:00Z"
-doi: "https://doi.org/10.3724/sp.j.1259.2012.00001" 
+date: "2012-04-01T00:00:00Z"
+doi: "https://doi.org/10.1186/1471-2164-13-132" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -20,10 +24,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*CHINESE BULLETIN OF BOTANY *47.1 (2012): 1-10"
+publication: "*BMC Genomics *13.1 (2012)"
 # publication_short: ""
 
-abstract: 'Plant dehydroascorbate reductase (DHAR) is a physiologically important reducing enzyme in the ascorbateglutathione recycling reaction. In this study, we cloned 6 DHAR genes from a hybrid pine species complex of Pinus densata, P. yunnanensis and P. tabulaeformis. P. densata originated by natural hybridization of P. yunnanensis and P. tabulaeformis. The 6 DHAR genes were divided into 2 types: DHAR1 and DHAR2. Phylogenetic analyses indicated that the 3 DHAR1 and 3 DHAR2 genes from the 3 Pinus species were 2 orthologous groups. DHAR1 and DHAR2 genes originated from an ancestral duplication event that occurred in the most recent common ancestor of the early land plants. P. densata contains a copy of DHAR1 similar to that of P. tabulaeformis and a copy of DHAR2 similar to that of P. yunnanensis. RT-PCR revealed that the 6 DHAR were constitutive expression genes in the 3 Pinus species. The recombinant Pinus DHAR proteins were overexpressed in E. coli and purified by Ni-affinity chromatography. P. densata and P. tabulaeformis DHAR1 proteins showed similar enzymatic activities, catalytic efficiency, thermal stabilities and optimal pH profiles towards substrate DHA but about 300-fold higher enzymatic activities than P. yunnanensis DHAR1 protein. The enzymatic activity and thermal stability of P. densata DHAR2 protein were higher than those of P. tabulaeformis DHAR2 protein. Joint analyses of sequence structure, phylogenetic relationships, expression patterns, enzymatic properties and protein 3-D structure revealed selective DHAR gene composition in the hybrid genome of P. densata. Such a combination of divergent copies of DHAR gene in P. densata may have adaptive implications for its colonization of novel habitats on the Tibetan Plateau.'
+abstract: 'Background:MicroRNAs (miRNAs) play key roles in diverse developmental processes, nutrient homeostasis and responses to biotic and abiotic stresses. The biogenesis and regulatory functions of miRNAs have been intensively studied in model angiosperms, such as Arabidopsis thaliana, Oryza sativa and Populus trichocarpa. However, global identification of Pinus densata miRNAs has not been reported in previous research.Results:Here, we report the identification of 34 conserved miRNAs belonging to 25 miRNA families from a P. densata mRNA transcriptome database using local BLAST and MIREAP programs. The primary and/or precursor sequences of 29 miRNAs were further confirmed by RT-PCR amplification and subsequent sequencing. The average value of the minimal folding free energy indexes of the 34 miRNA precursors was 0.92. Nineteen (58%) mature miRNAs began with a 5 terminal uridine residue. Analysis of miRNA precursors showed that 19 mature miRNAs were novel members of 14 conserved miRNA families, of which 17 miRNAs were further validated by subcloning and sequencing. Using real-time quantitative RT-PCR, we found that the expression levels of 7 miRNAs were more than 2-fold higher in needles than in stems. In addition, 72 P. densata mRNAs were predicted to be targets of 25 miRNA families. Four target genes, including a nodal modulator 1-like protein gene, two GRAS family transcription factor protein genes and one histone deacetylase gene, were experimentally verified to be the targets of 3 P. densata miRNAs, pde-miR162a, pde-miR171a and pde-miR482a, respectively.Conclusions:This study led to the discovery of 34 conserved miRNAs comprising 25 miRNA families from Pinus densata. These results lay a solid foundation for further studying the regulative roles of miRNAs in the development, growth and responses to environmental stresses in P. densata.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -35,7 +39,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: '2012.4.pdf'
+url_pdf: '2012.7.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
