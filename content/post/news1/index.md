@@ -7,6 +7,8 @@ tags: []
 
 <div style="text-align: center">
 
+NEWS
+<!--more-->
 ## 蝶恋花·春景
 
 【宋】苏轼
