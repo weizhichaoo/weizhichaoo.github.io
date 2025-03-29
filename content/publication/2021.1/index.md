@@ -1,16 +1,14 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "Frequent Ploidy Changes in Salicaceae Indicates Widespread Sharing of the Salicoid Whole Genome Duplication by the Relatives of Populus L. and Salix L."
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
-- Qing-Yin Zeng
+- Zhang Zhong-Shuai
+- Zeng Qing-Yin
+- Liu Yan-Jing
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2021-11-01T00:00:00Z"
+doi: "https://doi.org/10.1186/s12870-021-03313-x" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*BMC plant biology *21.1 (2021)"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'BACKGROUNDS:Populus and Salix belong to Salicaceae and are used as models to investigate woody plant physiology. The variation of karyotype and nuclear DNA content can partly reflect the evolutionary history of the whole genome, and can provide critical information for understanding, predicting, and potentially ameliorating the woody plant traits. Therefore, it is essential to study the chromosome number (CN) and genome size in detail to provide information for revealing the evolutionary process of Salicaceae.RESULTS:In this study, we report the somatic CNs of seventeen species from eight genera in Salicaceae. Of these, CNs for twelve species and for five genera are reported for the first time. Among the three subfamilies of Salicaceae, the available data indicate CN in Samydoideae is n = 21, 22, 42. The only two genera, Dianyuea and Scyphostegia, in Scyphostegioideae respectively have n = 9 and 18. In Salicoideae, Populus, Salix and five genera closely related to them (Bennettiodendron, Idesia, Carrierea, Poliothyrsis, Itoa) are based on relatively high CNs from n = 19, 20, 21, 22 to n = 95 in Salix. However, the other genera of Salicoideae are mainly based on relatively low CNs of n = 9, 10, 11. The genome sizes of 35 taxa belonging to 14 genera of Salicaceae were estimated. Of these, the genome sizes of 12 genera and all taxa except Populus euphratica are first reported. Except for Dianyuea, Idesia and Bennettiodendron, all examined species have relatively small genome sizes of less than 1 pg, although polyploidization exists.CONCLUSIONS:The variation of CN and genome size across Salicaceae indicates frequent ploidy changes and a widespread sharing of the salicoid whole genome duplication (WGD) by the relatives of Populus and Salix. The shrinkage of genome size after WGD indicates massive loss of genomic components. The phylogenetic asymmetry in clade of Populus, Salix, and their close relatives suggests that there is a lag-time for the subsequent radiations after the salicoid WGD event. Our results provide useful data for studying the evolutionary events of Salicaceae.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +34,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2021.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
