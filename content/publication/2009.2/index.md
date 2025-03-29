@@ -1,13 +1,17 @@
 ---
-title: "An example journal article"
+title: "Extensive Functional Diversification of the Populus Glutathione S-transferase Supergene Family"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2007-09-01T00:00:00Z"
-doi: "111111" 
+- Ting Lan,
+- Zhi-Ling Yang,
+- Xue Yang,
+- Yan-Jing Liu,
+- Xiao-Ru Wang,
+- Qing-Yin Zeng
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2009-01-01T00:00:00Z"
+doi: "https://doi.org/10.1105/tpc.109.070219" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -15,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ["article-journal"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*The Plant cell*21.12 (2009): 3749-3766"
 # publication_short: ""
 
-abstract: '111111111111111111'
+abstract: 'Identifying how genes and their functions evolve after duplication is central to understanding gene family radiation. In this study, we systematically examined the functional diversification of the glutathione S-transferase (GST) gene family in Populus trichocarpa by integrating phylogeny, expression, substrate specificity, and enzyme kinetic data. GSTs are ubiquitous proteins in plants that play important roles in stress tolerance and detoxification metabolism. Genome annotation identified 81 GST genes in Populus that were divided into eight classes with distinct divergence in their evolutionary rate, gene structure, expression responses to abiotic stressors, and enzymatic properties of encoded proteins. In addition, when all the functional parameters were examined, clear divergence was observed within tandem clusters and between paralogous gene pairs, suggesting that subfunctionalization has taken place among duplicate genes. The two domains of GST proteins appear to have evolved under differential selective pressures. The C-terminal domain seems to have been subject to more relaxed functional constraints or divergent directional selection, which may have allowed rapid changes in substrate specificity, affinity, and activity, while maintaining the primary function of the enzyme. Our findings shed light on mechanisms that facilitate the retention of duplicate genes, which can result in a large gene family with a broad substrate spectrum and a wide range of reactivity toward different substrates.'
 
 # Summary. An optional shortened abstract.
 summary: ''

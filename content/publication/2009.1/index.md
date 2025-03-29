@@ -10,7 +10,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-09-01T00:00:00Z"
+date: "2009-01-01T00:00:00Z"
 doi: "https://doi.org/10.1111/j.1744-7909.2009.00848.x" 
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ["article-journal"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of integrative plant biology*(2009): 993-1001"
