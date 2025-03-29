@@ -1,9 +1,4 @@
 ---
-_build: 
-  list: always
-  publishResources: false  # 阻止生成独立页面资源
-link_preview: false        # 禁用标题超链接
-
 title: "Cytochrome B5 Diversity in Green Lineages Preceded the Evolution of Syringyl Lignin Biosynthesis"
 authors:
 - Xianhai Zhao
