@@ -1,13 +1,17 @@
 ---
-title: "An example journal article"
+title: "Molecular Characterization of a Dehydroascorbate Reductase from Pinus Bungeana"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2007-09-01T00:00:00Z"
-doi: "111111" 
+- Hai-Ling Yang,
+- Ying-Ru Zhao,
+- Cai-Ling Wang,
+- Zhi-Ling Yang,
+- Qing-Yin Zeng,
+- Hai Lu
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2009-09-01T00:00:00Z"
+doi: "https://doi.org/10.1111/j.1744-7909.2009.00848.x" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,10 +22,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of integrative plant biology*(2009): 993-1001"
 # publication_short: ""
 
-abstract: '111111111111111111'
+abstract: 'Dehydroascorbate reductase (DHAR) plays a critical role in the ascorbate-glutathione recycling reaction for most higher plants. To date, studies on DHAR in higher plants have focused largely on Arabidopsis and agricultural plants, and there is virtually no information on the molecular characteristics of DHAR in gymnosperms. The present study reports the cloning and characteristics of a DHAR (PbDHAR) from a pine, Pinus bungeana Zucc. ex Endl. The PbDHAR gene encodes a protein of 215 amino acid residues with a calculated molecular mass of 24.26 kDa. The predicted 3-D structure of PbDHAR showed a typical glutathione S-transferase fold. Reverse transcription-polymerase chain reaction revealed that the PbDHAR was a constitutive expression gene in P. bungeana. The expression level of PbDHAR mRNA in P. bungeana seedlings did not show significant change under high temperature stress. The recombinant PbDHAR was overexpressed in Escherichia coli following purification with affinity chromatography. The recombinant PbDHAR exhibited enzymatic activity (19.84 mu mol/min per mg) and high affinity (a K-m of 0.08 mM) towards the substrates dehydroascorbate (DHA). Moreover, the recombinant PbDHAR was a thermostable enzyme, and retained 77% of its initial activity at 55 degrees C. The present study is the first to provide a detailed molecular characterization of the DHAR in P. bungeana.'
 
 # Summary. An optional shortened abstract.
 summary: ''
