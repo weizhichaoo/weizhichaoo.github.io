@@ -1,14 +1,14 @@
 ---
 # Display name
-title: 韩欢
+title: 秦怡
 
 # Full name (for SEO)
-first_name: 欢
-last_name: 韩
+first_name: 怡
+last_name: 秦
 
 # Username (this should match the folder name)
 authors:
-  - 韩欢
+  - 秦怡
 
 # Is this the primary user of the site?
 superuser: false
