@@ -1,16 +1,26 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "Role of UDP-Glucuronic Acid Decarboxylase in Xylan Biosynthesis in Arabidopsis"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
-- Qing-Yin Zeng
+- Beiqing Kuang
+- Xianhai Zhao
+- Chun Zhou
+- Wei Zeng
+- unli Ren
+- Berit Ebert
+- Cherie T. Beahan
+- Xiaomei Deng
+- Qingyin Zeng
+- Gongke Zhou
+- Monika S. Doblin
+- Joshua L. Heazlewood
+- Antony Bacic
+- Xiaoyang Chen
+- Ai-Min Wu
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2016-08-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.molp.2016.04.013" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +31,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*Molecular plant *9.8 (2016): 1119-1131"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'UDP-xylose (UDP-Xyl) is the Xyl donor used in the synthesis of major plant cell-wall polysaccharides such as xylan (as a backbone-chain monosaccharide) and xyloglucan (as a branching monosaccharide). The biosynthesis of UDP-Xyl from UDP-glucuronic acid (UDP-GlcA) is irreversibly catalyzed by UDPglucuronic acid decarboxylase (UXS). Until now, little has been known about the physiological roles of UXS in plants. Here, we report that AtUXS1, AtUXS2, and AtUXS4 are located in the Golgi apparatus whereas AtUXS3, AtUXS5, and AtUXS6 are located in the cytosol. Although all six single AtUXS T-DNA mutants and the uxs1 usx2 uxs4 triple mutant show no obvious phenotype, the uxs3 uxs5 uxs6 triple mutant has an irregular xylem phenotype. Monosaccharide analysis showed that Xyl levels decreased in uxs3 uxs5 uxs6 and linkage analysis confirmed that the xylan content in uxs3 xus5 uxs6 declined, indicating that UDP-Xyl from cytosol AtUXS participates in xylan synthesis. Gel-permeation chromatography showed that the molecular weight of non-cellulosic polysaccharides in the triple mutants, mainly composed of xylans, is lower than that in the wild type, suggesting an effect on the elongation of the xylan backbone. Upon saccharification treatment stems of the uxs3 uxs5 uxs6 triple mutants released monosaccharides with a higher efficiency than those of the wild type. Taken together, our results indicate that the cytosol UXS plays a more important role than the Golgi-localized UXS in xylan biosynthesis.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +46,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2016.1.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
