@@ -1,16 +1,14 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "Overexpression of Three Orthologous Glutathione S-transferases from Populus Increased Salt and Drought Resistance in Arabidopsis"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
+- Qi Yang
+- Yan-Jing Liu
 - Qing-Yin Zeng
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2019-04-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.bse.2019.01.001" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*Biochemical systematics and ecology *83 (2019): 57-61"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'Glutathione S-transferases (GSTs) are multifunctional proteins and play a role in detoxification of xenobiotics as well as prevention of oxidative damage. This study exogenously overexpressed PtGSTF4 from Populus trichocarpa and its two orthologs from Populus yatungensis and Populus euphratica in Arabidopsis thaliana, respectively. To elucidate the function of three GSTF4 proteins in stress response, we compared germination and seedling growth in transgenic Arabidopsis with salt and drought treatments. All three Populus GSTF4 genes overexpressed Arabidopsis showed enhanced resistance to salt stress and drought. GSTF4 transgenic plants accumulated less hydrogen peroxide and more chlorophylls and decreased levels of lipid peroxidation under salt stress and drought comparing to the mock control plants. The difference observed by GSH and GSSG measurements indicated GSTF4 proteins may involve in glutathione-dependent peroxide scavenging which lead to reduced oxidative damage. The Arabidopsis transformed with the GSTF4 gene form P. euphratica showed higher germination rate and different performance of affecting GSSG contents comparing with the other two orthologous GST genes under NaCl treatment. These results suggested three Populus GSTF4 orthologs may have functional divergence in stress responding. This study provides insights into molecular mechanisms that underlie salt and drought stress tolerance of Phi GSTs and gives evidence for the functional divergence among orthologs in vivo.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +34,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2019.2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

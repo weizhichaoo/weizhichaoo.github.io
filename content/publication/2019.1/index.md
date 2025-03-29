@@ -1,16 +1,14 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "De Novo Assembly of White Poplar Genome and Genetic Diversity of White Poplar Population in Irtysh River Basin in China"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
+- Yan-Jing Liu
+- Xiao-Ru Wang
 - Qing-Yin Zeng
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2019-03-01T00:00:00Z"
+doi: "https://doi.org/10.1007/s11427-018-9455-2" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*Science China. Life sciences *62.5 (2019): 609-618"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'The white poplar (Populus alba) is widely distributed in Central Asia and Europe. There are natural populations of white poplar in Irtysh River basin in China. It also can be cultivated and grown well in northern China. In this study, we sequenced the genome of P. alba by single-molecule real-time technology. De novo assembly of P. alba had a genome size of 415.99 Mb with a contig N50 of 1.18 Mb. A total of 32,963 protein-coding genes were identified. 45.16% of the genome was annotated as repetitive elements. Genome evolution analysis revealed that divergence between P. alba and Populus trichocarpa (black cottonwood) occurred ~5.0 Mya (3.0, 7.1). Fourfold synonymous third-codon transversion (4DTV) and synonymous substitution rate (ks) distributions supported the occurrence of the salicoid WGD event (~ 65 Mya). Twelve natural populations of P. alba in the Irtysh River basin in China were sequenced to explore the genetic diversity. Average pooled heterozygosity value of P. alba populations was 0.170±0.014, which was lower than that in Italy (0.271±0.051) and Hungary (0.264±0.054). Tajima’s D values showed a negative distribution, which might signify an excess of low frequency polymorphisms and a bottleneck with later expansion of P. alba populations examined.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +34,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2019.1.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
