@@ -19,9 +19,9 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+# publication_short: ""
 
-abstract: ''
+abstract: '111111111111111111'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -30,7 +30,7 @@ tags: ''
 
 featured: false
 
-# links:
+links: ''
 # - name: ""
 #   url: ""
 url_pdf: ''
