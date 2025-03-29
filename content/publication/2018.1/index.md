@@ -1,16 +1,16 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "Genome-wide Profiling of Expression and Biochemical Functions of the Medicago Glutathione S-transferase Gene Family"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
+- Xue-Min Han
+- Zhi-Ling Yang
+- Yan-Jing Liu
+- Hai-Ling Yang
 - Qing-Yin Zeng
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2018-05-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.plaphy.2018.03.004" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +21,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*Plant Physiology and Biochemistry *126 (2018): 126-133"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'Glutathione S-transferases are ubiquitous enzyme in plants, playing vital roles in several physiological and developmental processes. In this study we identified 73 GST genes from the genome of Medicago truncatula. The Medicago GSTs were divided to eight classes with tau and phi being the most numerous. Six clusters were found on four Medicago chromosomes. The local gene duplication mainly contributed to the expansion of this large gene family. Functional divergence was found in their gene structures, gene expression patterns, and enzyme properties. A genomic comparative analysis revealed lineage-specific loss/gain events between Medicago and Glycine. This study offered new insights into the evolution of gene family between closely related species.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +36,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2018.1.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

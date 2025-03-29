@@ -1,16 +1,24 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "Three UDP-xylose Transporters Participate in Xylan Biosynthesis by Conveying Cytosolic UDP-xylose into the Golgi Lumen in Arabidopsis"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
+- Xianhai Zhao
+- Nian Liu
+- Na Shang
+- Wei Zeng
+- Berit Ebert
+- Carsten Rautengarten
 - Qing-Yin Zeng
+- Huiling Li
+- Xiaoyang Chen
+- Cherie Beahan
+- Antony Bacic
+- Joshua L. Heazlewood
+- Ai-Min Wu
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2018-02-01T00:00:00Z"
+doi: "https://doi.org/10.1093/jxb/erx448" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +29,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*Journal of Experimental Botany *69.5 (2018): 1125-1134"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'UDP-xylose (UDP-Xyl) is synthesized by UDP-glucuronic acid decarboxylases, also termed UDP-Xyl synthases (UXSs). The Arabidopsis genome encodes six UXSs, which fall into two groups based upon their subcellular location: the Golgi lumen and the cytosol. The latter group appears to play an important role in xylan biosynthesis. Cytosolic UDP-Xyl is transported into the Golgi lumen by three UDP-Xyl transporters (UXT1, 2, and 3). However, while single mutants affected in the UDP-Xyl transporter 1 (UXT1) showed a substantial reduction in cell wall xylose content, a double mutant affected in UXT2 and UXT3 had no obvious effect on cell wall xylose deposition. This prompted us to further investigate redundancy among the members of the UXT family. Multiple uxt mutants were generated, including a triple mutant, which exhibited collapsed vessels and reduced cell wall thickness in interfascicular fiber cells. Monosaccharide composition, molecular weight, nuclear magnetic resonance, and immunolabeling studies demonstrated that both xylan biosynthesis (content) and fine structure were significantly affected in the uxt triple mutant, leading to phenotypes resembling those of the irx mutants. Pollination was also impaired in the uxt triple mutant, likely due to reduced filament growth and anther dehiscence caused by alterations in the composition of the cell walls. Moreover, analysis of the nucleotide sugar composition of the uxt mutants indicated that nucleotide sugar interconversion is influenced by the cytosolic UDP-Xyl pool within the cell. Taken together, our results underpin the physiological roles of the UXT family in xylan biosynthesis and provide novel insights into the nucleotide sugar metabolism and trafficking in plants.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +44,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2018.2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

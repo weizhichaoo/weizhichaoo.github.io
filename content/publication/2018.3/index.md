@@ -1,16 +1,18 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "Evolution and Function of the Populus SABATH Family Reveal That a Single Amino Acid Change Results in a Substrate Switch"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
+- Xue-Min Han
+- Qi Yang
+- Yan-Jing Liu
+- Zhi-Ling Yang
+- Xiao-Ru Wang
 - Qing-Yin Zeng
+- Hai-Ling Yang
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2018-02-01T00:00:00Z"
+doi: "https://doi.org/10.1093/pcp/pcx198" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +23,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*Plant and Cell Physiology *59.2 (2017): 392-403"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'Evolutionary mechanisms of substrate specificities of enzyme families remain poorly understood. Plant SABATH methyltransferases catalyze methylation of the carboxyl group of various low molecular weight metabolites. Investigation of the functional diversification of the SABATH family in plants could shed light on the evolution of substrate specificities in this enzyme family. Previous studies identified 28 SABATH genes from the Populus trichocarpa genome. In this study, we re-annotated the Populus SABATH gene family, and performed molecular evolution, gene expression and biochemical analyses of this large gene family. Twenty-eight Populus SABATH genes were divided into three classes with distinct divergences in their gene structure, expression responses to abiotic stressors and enzymatic properties of encoded proteins. Populus class I SABATH proteins converted IAA to methyl-IAA, class II SABATH proteins converted benzoic acid (BA) and salicylic acid (SA) to methyl-BA and methyl-SA, while class III SABATH proteins converted farnesoic acid (FA) to methyl-FA. For Populus class II SABATH proteins, both forward and reverse mutagenesis studies showed that a single amino acid switch between PtSABATH4 and PtSABATH24 resulted in substrate switch. Our findings provide new insights into the evolution of substrate specificities of enzyme families.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +38,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2018.3.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
