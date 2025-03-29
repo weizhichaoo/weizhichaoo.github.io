@@ -1,16 +1,16 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "[Molecular Characterizations of Two Dehydroascorbate Reductases from Selaginella Moellendorffii]"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
-- Qing-Yin Zeng
+- Zishuo Cheng
+- Ting Lan
+- Di Li
+- Hailing Yang
+- Qingyin Zeng
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2011-03-01T00:00:00Z"
+doi: "https://doi.org/10.13345/j.cjb.2011.01.004" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +21,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "* Sheng wu gong cheng xue bao = Chinese journal of biotechnology*427.1 (2011): 76-84"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'Plant dehydroascorbate reductase (DHAR) is a physiologically important reducing enzyme in the ascorbate-glutathione recycling reaction. In this study, two DHARs genes (SmDHAR1 and SmDHAR2) were isolated from Selaginella moellendorffii. The SmDHAR1 and SmDHAR2 genes encode two proteins of 218 and 241 amino acid residues, with a calculated molecular mass of 23.97 kDa and 27.33 kDa, respectively. The genomic sequence analysis showed SmDHAR1 and SmDHAR2 contained five and six introns, respectively. Reverse transcription PCR revealed that the SmDHAR1 and SmDHAR2 were constitutive expression genes in S. moellendorffii. The recombinant SmDHAR1 and SmDHAR2 proteins were overexpressed in E. coli, and were purified by Ni-affinity chromatography. The recombinant SmDHAR1 showed 116-fold higher enzymatic activity towards the substrate dehydroascorbate than recombinant SmDHAR2. The recombinant SmDHAR1 showed higher thermal stability than recombinant SmDHAR2. These results indicated obvious functional divergence between the duplicate genes SmDHAR1 and SmDHAR2.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +36,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2011.2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
