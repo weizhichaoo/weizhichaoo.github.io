@@ -1,16 +1,14 @@
 ---
-title: "Biochemical and Physiological Characterization of a Tau Class Glutathione Transferase from Rice (oryza Sativa)"
+title: "The Complete Chloroplast Genome of Chinese Endemic Species Abies Ferreana (pinaceae) and Its Phylogenetic Analysis"
 authors:
-- Xue Yang,
-- Wu Sun,
-- Jiang-Peng Liu,
-- Yan-Jing Liu,
+- Dan Wang
 - Qing-Yin Zeng
+- Xue-Min Han
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2009-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.plaphy.2009.07.003" 
+date: "2022-04-01T00:00:00Z"
+doi: "https://doi.org/10.1080/23802359.2022.2097028" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*Mitochondrial DNA Part B *7*.7 (2022): 1282-1284"
 # publication_short: ""
 
-abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
+abstract: 'Abies ferreana Bordères & Gaussen 1947 is endemic to China, where it is distributed at 3300–4000 meters in the mountains of Southwest Sichuan and Northwest Yunnan. In this study, the complete chloroplast genome of A. ferreana was reconstructed by de novo assembly using whole-genome sequencing data. The complete chloroplast genome of A. ferreana was 120,049 bp in length with a GC content of 37.9%. A total of 113 genes were identified, including 4 rRNA genes, 35 tRNA genes, and 74 protein-coding genes. Among these, 14 genes contain introns. In the phylogenetic tree with 12 other species of Abies, A. ferreana and Abies fanjingshanensis W. L. Huang et al. 1984 were grouped into the same branch, with a bootstrap value of 100%. The complete chloroplast genome of A. ferreana provides potential genetic resources for further Abies evolutionary and genomic studies.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -36,7 +34,7 @@ featured: false
 # links:
 #   - name: ''
 #     url: ''
-url_pdf: ''
+url_pdf: '2022.3.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
