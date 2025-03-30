@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mitochondrial DNA Part B *7*.7 (2022): 1282-1284"
+publication: "*Mitochondrial DNA Part B* 7.7 (2022): 1282-1284"
 # publication_short: ""
 
 abstract: 'Abies ferreana Bordères & Gaussen 1947 is endemic to China, where it is distributed at 3300–4000 meters in the mountains of Southwest Sichuan and Northwest Yunnan. In this study, the complete chloroplast genome of A. ferreana was reconstructed by de novo assembly using whole-genome sequencing data. The complete chloroplast genome of A. ferreana was 120,049 bp in length with a GC content of 37.9%. A total of 113 genes were identified, including 4 rRNA genes, 35 tRNA genes, and 74 protein-coding genes. Among these, 14 genes contain introns. In the phylogenetic tree with 12 other species of Abies, A. ferreana and Abies fanjingshanensis W. L. Huang et al. 1984 were grouped into the same branch, with a bootstrap value of 100%. The complete chloroplast genome of A. ferreana provides potential genetic resources for further Abies evolutionary and genomic studies.'

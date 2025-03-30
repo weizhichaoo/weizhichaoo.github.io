@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Systematics and Evolution *60.1 (2022): 169-185"
+publication: "*Journal of Systematics and Evolution* 60.1 (2022): 169-185"
 # publication_short: ""
 
 abstract: 'Whole genome duplication (WGD) provides new genetic material for genome evolution. After a WGD event, some duplicates are lost, while other duplicates still persist and evolve diverse functions. A particular challenge is to understand how this diversity arises. This study identified two WGD‐derived duplicates, MYB158 and MYB189, from Populus tomentosa. Populus MYB158 and MYB189 had expression divergence. Populus tomentosa overexpressing MYB158 or MYB189 had similar phenotypes: creep growth, decreased width of xylem and secondary cell wall thickness. Compared to wild‐type, neither myb158 mutant nor myb158 myb189 double mutant showed obvious phenotypic variation in P. tomentosa. Although MYB158 and MYB189 proteins could repress the same structural genes involved in lignin, cellulose, and xylan biosynthesis, the two proteins had their own specific regulatory targets. Populus MYB158 could act as the upstream regulator of secondary cell wall NAC master switch and directly represses the expression of the SND1‐B2 gene. Taken together, Populus MYB158 and MYB189 have retained similar functions in negatively regulating secondary cell wall biosynthesis, but have evolved partially distinct functions in direct regulation of NAC master switch, with MYB158 playing a more crucial role. Our findings provide new insights into the evolutionary and functional divergence of WGD‐derived duplicate genes.'

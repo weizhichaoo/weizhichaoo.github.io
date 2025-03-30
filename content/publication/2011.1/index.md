@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Biochemical systematics and ecology *40 (2011): 75-85"
+publication: "*Biochemical systematics and ecology* 40 (2011): 75-85"
 # publication_short: ""
 
 abstract: 'Plant phi class glutathione transferases (GSTs) play important roles in stress tolerance and detoxification metabolism. This study reports the cloning, expression and biochemical characteristics of a phi GST gene (CaGSTF) from the endemic and endangered conifer Cathaya argyrophylla. The recombinant CaGSTF showed GSH-conjugating activity towards the substrate NBD-Cl and CDNB. Kinetic analysis revealed low catalytic efficiency with a kcat/KmGSH value of 9.82 mM−1S−1. The CaGSTF proved to be a thermolabile enzyme, at 40 °C the enzyme’s activity was nearly abolished. Site-directed mutagenesis revealed that Ser12, Lys42, Ile55, Glu67 and Ser68 of CaGSTF are critical components of glutathione-binding sites that contribute to the enzyme’s catalytic activity. Compared to other plant phi GSTs and conifer tau GSTs, CaGSTF showed a narrow substrate spectrum, low catalytic efficiency and thermolability. These atypical properties suggest the enzyme may have a limited functional role in the organism’s adaptation to environmental stresses in the subtropical regions.'

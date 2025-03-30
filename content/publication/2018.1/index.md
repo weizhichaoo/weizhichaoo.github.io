@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry *126 (2018): 126-133"
+publication: "*Plant Physiology and Biochemistry* 126 (2018): 126-133"
 # publication_short: ""
 
 abstract: 'Glutathione S-transferases are ubiquitous enzyme in plants, playing vital roles in several physiological and developmental processes. In this study we identified 73 GST genes from the genome of Medicago truncatula. The Medicago GSTs were divided to eight classes with tau and phi being the most numerous. Six clusters were found on four Medicago chromosomes. The local gene duplication mainly contributed to the expansion of this large gene family. Functional divergence was found in their gene structures, gene expression patterns, and enzyme properties. A genomic comparative analysis revealed lineage-specific loss/gain events between Medicago and Glycine. This study offered new insights into the evolution of gene family between closely related species.'

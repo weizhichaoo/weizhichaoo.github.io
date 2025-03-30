@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant and Cell Physiology *59.2 (2017): 392-403"
+publication: "*Plant and Cell Physiology* 59.2 (2017): 392-403"
 # publication_short: ""
 
 abstract: 'Evolutionary mechanisms of substrate specificities of enzyme families remain poorly understood. Plant SABATH methyltransferases catalyze methylation of the carboxyl group of various low molecular weight metabolites. Investigation of the functional diversification of the SABATH family in plants could shed light on the evolution of substrate specificities in this enzyme family. Previous studies identified 28 SABATH genes from the Populus trichocarpa genome. In this study, we re-annotated the Populus SABATH gene family, and performed molecular evolution, gene expression and biochemical analyses of this large gene family. Twenty-eight Populus SABATH genes were divided into three classes with distinct divergences in their gene structure, expression responses to abiotic stressors and enzymatic properties of encoded proteins. Populus class I SABATH proteins converted IAA to methyl-IAA, class II SABATH proteins converted benzoic acid (BA) and salicylic acid (SA) to methyl-BA and methyl-SA, while class III SABATH proteins converted farnesoic acid (FA) to methyl-FA. For Populus class II SABATH proteins, both forward and reverse mutagenesis studies showed that a single amino acid switch between PtSABATH4 and PtSABATH24 resulted in substrate switch. Our findings provide new insights into the evolution of substrate specificities of enzyme families.'

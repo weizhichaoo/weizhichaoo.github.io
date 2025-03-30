@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Gene *686 (2018): 29-36"
+publication: "*Gene* 686 (2018): 29-36"
 # publication_short: ""
 
 abstract: 'Superoxide dismutase is a key enzyme that scavenges superoxide anion and plays vital roles in plant antioxidant system. This study identified six SOD genes from the deciduous conifer Larix kaempferi, which is widely distributed across the cooler regions of the northern hemisphere. These six SOD genes were classified into three types: Cu/Zn-SOD (LkSOD1, 2, 3 and 4), Fe-SOD (LkSOD5) and Mn-SODs (LkSOD6). Three Cu/Zn-SOD proteins (LkSOD1, 3 and 4) were cytosolic-localized, while the other three proteins (LkSOD2, 5 and 6) were chloroplast-localized. Larix SOD proteins displayed catalytic activities toward superoxide anion, and retained >55% of its maximum enzymatic activity between 10 °C and 40 °C. Over expressions of three Larix SOD genes (LkSOD2, 4 and 6) in Arabidopsis thaliana, respectively, showed increased germination rates and root lengths during salt stress. LkSOD5 gene could rescue pale green and dwarf phenotype of Arabidopsis atfsd2-2 mutant. Taken together, this study provided comprehensive insight into the gymnosperm SOD gene family.'

@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Journal *110.1 (2022): 129-146"
+publication: "*Plant Journal* 110.1 (2022): 129-146"
 # publication_short: ""
 
 abstract: 'Enzymes are essential components of all biological systems. The key characteristics of proteins functioning as enzymes are their substrate specificities and catalytic efficiencies. In plants, most genes encoding enzymes are members of large gene families. Within such families, the contributions of active site motifs to the functional divergence of duplicate genes have not been well elucidated. In this study, we identified 41 glutaredoxin (GRX) genes in the Populus trichocarpa genome. GRXs are ubiquitous enzymes in plants that play important roles in developmental and stress tolerance processes. In poplar, GRX genes were divided into four classes based on clear differences in gene structure and expression pattern, subcellular localization, enzymatic activity, and substrate specificity of the encoded proteins. Using site-directed mutagenesis, this study revealed that the divergence of the active site motif among different classes of GRX proteins resulted in substrate switches and thus provided new insights into the molecular evolution of these important plant enzymes.'

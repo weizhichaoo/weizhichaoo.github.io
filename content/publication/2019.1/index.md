@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science China. Life sciences *62.5 (2019): 609-618"
+publication: "*Science China. Life sciences* 62.5 (2019): 609-618"
 # publication_short: ""
 
 abstract: 'The white poplar (Populus alba) is widely distributed in Central Asia and Europe. There are natural populations of white poplar in Irtysh River basin in China. It also can be cultivated and grown well in northern China. In this study, we sequenced the genome of P. alba by single-molecule real-time technology. De novo assembly of P. alba had a genome size of 415.99 Mb with a contig N50 of 1.18 Mb. A total of 32,963 protein-coding genes were identified. 45.16% of the genome was annotated as repetitive elements. Genome evolution analysis revealed that divergence between P. alba and Populus trichocarpa (black cottonwood) occurred ~5.0 Mya (3.0, 7.1). Fourfold synonymous third-codon transversion (4DTV) and synonymous substitution rate (ks) distributions supported the occurrence of the salicoid WGD event (~ 65 Mya). Twelve natural populations of P. alba in the Irtysh River basin in China were sequenced to explore the genetic diversity. Average pooled heterozygosity value of P. alba populations was 0.170±0.014, which was lower than that in Italy (0.271±0.051) and Hungary (0.264±0.054). Tajima’s D values showed a negative distribution, which might signify an excess of low frequency polymorphisms and a bottleneck with later expansion of P. alba populations examined.'

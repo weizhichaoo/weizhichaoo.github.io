@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry*47.11-12 (2009): 1061-1068"
+publication: "*Plant Physiology and Biochemistry* 47.11-12 (2009): 1061-1068"
 # publication_short: ""
 
 abstract: 'A common assumption in comparative genomics is that orthologous genes are functionally more similar than paralogous genes. However, the validity of this assumption needs to be assessed using robust experimental data. We conducted tissue-specific gene expression and protein function analyses of orthologous groups within the glutathione S-transferase (GST) gene family in three closely related Populus species: Populus trichocarpa, Populus euphratica and Populus yatungensis. This study identified 21 GST orthologous groups in the three Populus species. Although the sequences of the GST orthologous groups were highly conserved, the divergence in enzymatic functions was prevalent. Through site-directed mutagenesis of orthologous proteins, this study revealed that nonsynonymous substitutions at key amino acid sites played an important role in the divergence of enzymatic functions. In particular, a single amino acid mutation (Arg39→Trp39) contributed to P. euphratica PeGSTU30 possessing high enzymatic activity via increasing the hydrophobicity of the active cavity. This study provided experimental evidence showing that orthologues belonging to the gene family have functional divergences. The nonsynonymous substitutions at a few amino acid sites resulted in functional divergence of the orthologous genes. Our findings provide new insights into the evolution of orthologous genes in closely related species.'

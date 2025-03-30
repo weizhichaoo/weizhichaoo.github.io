@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Plant Science *7 (2016)"
+publication: "*Frontiers in Plant Science* 7 (2016)"
 # publication_short: ""
 
 abstract: 'Extensive subfunctionalization might explain why so many genes have been maintained after gene duplication, which provides the engine for gene family expansion. However, it is still a particular challenge to trace the evolutionary dynamics and features of functional divergences in a supergene family over the course of evolution. In this study, we identified 49 Glutathione S-transferase (GST) genes from the Capsella rubella, a close relative of Arabidopsis thaliana and a member of the mustard family. Capsella GSTs can be categorized into eight classes, with tau and phi GSTs being the most numerous. The expansion of the two classes mainly occurs through tandem gene duplication, which results in tandem-arrayed gene clusters on chromosomes. By integrating phylogenetic analysis, expression patterns, and biochemical functions of Capsella and Arabidopsis GSTs, functional divergence, both in gene expression and enzymatic properties, were clearly observed in paralogous gene pairs in Capsella (even the most recent duplicates), and orthologous GSTs in Arabidopsis/Capsella. This study provides functional evidence for the expansion and organization of a large gene family in closely related species.'

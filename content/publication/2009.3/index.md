@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Plant Physiology and Biochemistry *47.11-12 (2009): 1061-1068"
+publication: "*Plant Physiology and Biochemistry* 47.11-12 (2009): 1061-1068"
 # publication_short: ""
 
 abstract: 'The classical phase II detoxification glutathione transferases (GSTs) are key metabolic enzymes that catalyze the conjugation of glutathione to various electrophilic compounds. A tau class GST gene (OsGSTU17) was cloned from rice, which encodes a protein of 223 amino acid residues with a calculated molecular mass of 25.18 kDa. The recombinant OsGSTU17 formed a homodimer protein and showed GSH-conjugating activity with various xenobiotics. Kinetic analysis with respect to NBD-Cl as substrate revealed a K-m of 0.324 mM and V-max of 0.219 mu mol/min per mg of protein. The enzyme had a maximum activity at pH 7.5, and a high thermal stability with 81% of its initial activity at 55 degrees C for 15 min. Site-directed mutagenesis revealed that Ser15 in the N-terminal domain is a critical catalytic residue, responsible for stabilisation of the thiolate anion of enzyme-bound glutathione. OsGSTU17 mRNA was expressed in different tissues of rice, both above and below ground. The relative transcript levels of OsGSTU17 mRNA varied significantly among the tissues in response to CDNB, hydrogen peroxide and atrazine treatments, indicating the gene has diverse regulation mechanisms in response to abiotic stresses.'
