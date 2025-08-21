@@ -31,15 +31,12 @@ interests:
 
 education:
   courses:
-    - course: 博士
-      institution: 中国林业科学研究院
-      year: 2010-06 - 2013-06
     - course: 硕士
       institution: 中国林业科学研究院
-      year: 2007-09 - 2010-06
+      year: 2022-09 - 2024-06
     - course: 学士
       institution: 沈阳农业大学
-      year: 2003-09 - 2007-06
+      year: 2018-09 - 2022-06
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xi.yuu@caf.ac.cn'
+    link: 'yu.xiu@caf.ac.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
