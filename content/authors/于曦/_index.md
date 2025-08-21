@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 于曦
+title: 许腾飞
 
 # Full name (for SEO)
-first_name: 曦
-last_name: 于
+first_name: 腾飞
+last_name: 许
 
 # Username (this should match the folder name)
 authors:
-  - 于曦
+  - 许腾飞
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2022级硕士研究生（硕博连读）
+role: 2025级硕士研究生
 
 # Organizations/Affiliations
 organizations:
@@ -25,21 +25,18 @@ organizations:
 bio: ''
 
 interests:
-  - 爬山
-  - 游泳
-  - 吃火锅
+  - 健身
+  - 排球
+  - 吃烧烤
 
 education:
   courses:
-    - course: 博士
-      institution: 中国林业科学研究院
-      year: 2010-06 - 2013-06
     - course: 硕士
       institution: 中国林业科学研究院
-      year: 2007-09 - 2010-06
+      year: 2025-09 - 2028-06
     - course: 学士
-      institution: 沈阳农业大学
-      year: 2003-09 - 2007-06
+      institution: 河南科技大学
+      year: 2021-09 - 2025-06
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xi.yuu@caf.ac.cn'
+    link: 'tengfei.xuu@caf.ac.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
